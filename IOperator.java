@@ -1,3 +1,3 @@
-public class IOperator {
+public interface IOperator {
     
 }
